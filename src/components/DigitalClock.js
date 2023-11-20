@@ -24,6 +24,7 @@ const DigitalClock = () => {
     justifycontent: 'center',
     padding: '20px',
     borderRadius: '10px',
+    border: '2px solid blue'
     
   };
 
